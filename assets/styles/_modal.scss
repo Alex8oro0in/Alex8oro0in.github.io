@@ -1,0 +1,71 @@
+.modal-body {
+  .modal-close-x {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: inherit;
+    cursor: pointer;
+  }
+
+  .text-13 {
+    font-size: 13px;
+    color: #959595;
+  }
+  .text-18 {
+    color: #313131;
+    font-size: 18px;
+    font-weight: bold
+  }
+
+  .m-t-7 {
+    margin-top: 7px;
+  }
+  .m-l-5 {
+    margin-left: 5pt;
+  }
+}
+
+.modal-check {
+  .mat-dialog-content {
+    background-color: #38B1DC10;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+  .mat-dialog-container {
+    padding: 0;
+    overflow: hidden;
+  }
+}
+.modal-permission {
+  .mat-dialog-content {
+    background-color: #38B1DC10;
+    padding: 10px;
+    margin: 0;
+    overflow: hidden;
+  }
+  .mat-dialog-container {
+    padding: 0;
+    overflow: hidden;
+  }
+}
+
+.modal-graph {
+  .mat-dialog-content {
+    background-color: #ebf7fb;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+  .mat-dialog-container {
+    padding: 0;
+    overflow: hidden;
+    background-color: #ebf7fb;
+  }
+  .card {
+    padding: 0;
+  }
+  .card-body {
+    padding: 0;
+  }
+}
